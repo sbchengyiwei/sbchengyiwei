@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sbchengyiwei
-- 🌱 I’m currently working on grpc in Linkedin.
+- 🌱 I’m currently working in Linkedin as a SWE.
